@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="Default-topic.md">
+
+    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Design-Patterns.md">
+        <toc-element topic="Strategy.md"/>
+        <toc-element topic="Observer.md"/>
+        <toc-element topic="Decorator.md"/>
+        <toc-element topic="Factory-Method.md"/>
+    </toc-element>
+</instance-profile>
